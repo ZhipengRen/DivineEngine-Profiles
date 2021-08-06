@@ -100,7 +100,11 @@ DOMAIN-KEYWORD,bbcfmt,Streaming
 DOMAIN-KEYWORD,uk-live,Streaming
 # > bilibili Intl
 DOMAIN-SUFFIX,biliintl.com,Streaming
+DOMAIN,apm-misaka.biliapi.net,Streaming
+DOMAIN,p.bstarstatic.com,Streaming
+DOMAIN,p-bstarstatic.akamaized.net,Streaming
 DOMAIN,upos-bstar-mirrorakam.akamaized.net,Streaming
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net,Streaming
 # > DAZN
 USER-AGENT,DAZN*,Streaming
 DOMAIN-SUFFIX,dazn.com,Streaming
@@ -184,6 +188,7 @@ DOMAIN-SUFFIX,iq.com,Streaming
 DOMAIN,intl.iqiyi.com,Streaming
 DOMAIN,intl-rcd.iqiyi.com,Streaming
 DOMAIN,intl-subscription.iqiyi.com,Streaming
+IP-CIDR,23.211.15.99/32,Streaming
 IP-CIDR,103.5.34.153/32,Streaming
 IP-CIDR,104.109.129.153/32,Streaming
 IP-CIDR,110.238.107.47/32,Streaming
